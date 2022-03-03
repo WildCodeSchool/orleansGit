@@ -6,3 +6,11 @@ ul{
     display: flex;
     background-color: blue;
 }
+
+footer {
+    background-color: green;
+}
+
+footer a {
+    color: yellow;
+}
